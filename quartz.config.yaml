@@ -208,10 +208,10 @@ plugins:
     options:
       provider: giscus
       options:
-        repo: TODO:username/repo-name
-        repoId: TODO:your-repo-id
+        repo: chhu67/chhu67.github.io
+        repoId: R_kgDOUY-65g
         category: Announcements
-        categoryId: TODO:your-category-id
+        categoryId: DIC_kwDOUY-65s4DFgZ2
         mapping: url
         strict: true
         reactionsEnabled: true
